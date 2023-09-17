@@ -1,0 +1,4 @@
+python ./pycharm-transformer/main.py 32 > ./main_dir/32.txt
+python ./pycharm-transformer/main.py 64 > ./main_dir/64.txt
+python ./pycharm-transformer/main.py 128 > ./main_dir/128.txt
+python ./pycharm-transformer/main.py 256 > ./main_dir/256.txt

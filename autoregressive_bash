@@ -1,0 +1,4 @@
+python ./pycharm-transformer/autoregressive.py 32 > ./autoregressive_dir/32.txt
+python ./pycharm-transformer/autoregressive.py 64 > ./autoregressive_dir/64.txt
+python ./pycharm-transformer/autoregressive.py 128 > ./autoregressive_dir/128.txt
+python ./pycharm-transformer/autoregressive.py 256 > ./autoregressive_dir/256.txt
